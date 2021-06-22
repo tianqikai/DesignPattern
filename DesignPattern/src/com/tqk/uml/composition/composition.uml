@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>D:/javaweb/设计模式/DesignPattern/src/com/tqk/uml/composition/Computer.java</OriginalElement>
+  <nodes>
+    <node x="45.75" y="106.0">com.tqk.uml.composition.Computer</node>
+    <node x="132.0" y="0.0">com.tqk.uml.composition.Mouse</node>
+    <node x="0.0" y="0.0">com.tqk.uml.composition.Monitor</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.tqk.uml.composition.Computer" target="com.tqk.uml.composition.Mouse" relationship="CREATE">
+      <point x="18.125" y="-51.5" />
+      <point x="136.375" y="81.0" />
+      <point x="157.5" y="81.0" />
+      <point x="-25.5" y="28.0" />
+    </edge>
+    <edge source="com.tqk.uml.composition.Computer" target="com.tqk.uml.composition.Mouse" relationship="TO_ONE">
+      <point x="54.375" y="-51.5" />
+      <point x="172.625" y="81.0" />
+      <point x="208.5" y="81.0" />
+      <point x="25.5" y="28.0" />
+    </edge>
+    <edge source="com.tqk.uml.composition.Computer" target="com.tqk.uml.composition.Monitor" relationship="CREATE">
+      <point x="-54.375" y="-51.5" />
+      <point x="63.875" y="81.0" />
+      <point x="28.0" y="81.0" />
+      <point x="-28.0" y="28.0" />
+    </edge>
+    <edge source="com.tqk.uml.composition.Computer" target="com.tqk.uml.composition.Monitor" relationship="TO_ONE">
+      <point x="-18.125" y="-51.5" />
+      <point x="100.125" y="81.0" />
+      <point x="84.0" y="81.0" />
+      <point x="28.0" y="28.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="true" x="129.5" y="102.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
