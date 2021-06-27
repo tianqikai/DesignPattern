@@ -12,4 +12,8 @@ public class HungrySingleton {
     public static HungrySingleton getHungrySingleton() {
         return hungrySingleton;
     }
+
+    public static void main(String[] args) {
+        getHungrySingleton();
+    }
 }

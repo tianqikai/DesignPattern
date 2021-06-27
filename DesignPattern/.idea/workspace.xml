@@ -1,20 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e69acca8-7ebf-447b-a3b9-130fe02e412b" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aaaa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bbb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/uml/aggregation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/uml/aggregation/aggregation.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/uml/association/Person1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/uml/composition/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/uml/dependence/PersonServiceBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/uml/generalization/PersonServiceBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/uml/implementation/PersonServiceBean.java" afterDir="false" />
+    <list default="true" id="42162b68-c331-4fe3-8c83-c8bcefa09252" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/HpComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/HpKeybo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/HpMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/Keybo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/LenovoComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/LenovoKeybo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/LenovoMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/AbstractHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/CommonHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/improve/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/improve/HighBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/improve/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/improve/HouseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/improve/HouseDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/AddFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/CreateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/DivideFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/IFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/IOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/MultiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/OperationAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/OperationDivide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/OperationMulti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/OperationSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/SubFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/AsusComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/CreatComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/HpComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/LenovoComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/deppclone/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/deppclone/DeepCloneableTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/deppclone/DeepProtoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/improve/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/improve/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/singleton/EumSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/CloseCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/CloseCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Ocp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Ocp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/OpenCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/OpenCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Overhead.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Overhead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/QueryCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/QueryCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tqk/singleton/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tqk/singleton/HungrySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tqk/singleton/LazySingleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tqk/singleton/LazySingleton2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +76,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1uGHpQvogmbRsfhgTOkyTE4dzO3" />
+  <component name="ProjectId" id="1uReAfxK9aQz3LX6Mb3Ukt0PVB4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
@@ -45,52 +89,125 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/tqk/uml/composition/composition.uml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\javaweb\设计模式\DesignPattern\src\com\tqk\uml\aggregation" />
+      <recent name="D:\javaweb\设计模式\DesignPattern\src\com\tqk\factroy\factorymethod" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\javaweb\设计模式\DesignPattern\src\com\tqk\uml\dependence" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tqk.builder.improve" />
+      <recent name="com.tqk.prototype.deppclone" />
+      <recent name="com.tqk.prototype.improve" />
+      <recent name="com.tqk.absfactory" />
+      <recent name="com.tqk.factroy.factorymethod" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Client (4)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tqk.prototype.improve.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tqk.prototype.improve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tqk.prototype.deppclone.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tqk.prototype.deppclone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tqk.builder.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tqk.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tqk.builder.improve.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tqk.builder.improve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tqk.prototype.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tqk.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e69acca8-7ebf-447b-a3b9-130fe02e412b" name="Default Changelist" comment="" />
-      <created>1624285190208</created>
+      <changelist id="42162b68-c331-4fe3-8c83-c8bcefa09252" name="Default Changelist" comment="" />
+      <created>1624632688142</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1624285190208</updated>
-      <workItem from="1624285191435" duration="7943000" />
+      <updated>1624632688142</updated>
+      <workItem from="1624632690898" duration="4278000" />
+      <workItem from="1624757769221" duration="10064000" />
     </task>
-    <task id="LOCAL-00001" summary="add">
-      <created>1624285233418</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1624285233418</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,13 +223,35 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/tqk/prototype/deppclone/Client.java</url>
+          <line>4</line>
+          <properties class="com.tqk.prototype.deppclone.Client" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tqk/builder/improve/Client.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tqk/builder/improve/Client.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DesignPattern$Client__4_.ic" NAME="Client (4) Coverage Results" MODIFIED="1624810670867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tqk.builder.improve.*</FILTER>
+    </SUITE>
   </component>
 </project>
