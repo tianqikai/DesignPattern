@@ -1,64 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42162b68-c331-4fe3-8c83-c8bcefa09252" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/ComputerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/HpComputerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/HpKeybo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/HpMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/Keybo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/LenovoComputerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/LenovoKeybo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/LenovoMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/absfactory/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/AbstractHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/CommonHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/improve/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/improve/HighBuilding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/improve/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/improve/HouseBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/builder/improve/HouseDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/AddFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/CreateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/DivideFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/IFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/IOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/MultiFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/OperationAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/OperationDivide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/OperationMulti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/OperationSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod/SubFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/AsusComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/ComputerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/CreatComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/HpComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/factroy/simplefactory/LenovoComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/deppclone/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/deppclone/DeepCloneableTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/deppclone/DeepProtoType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/improve/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/prototype/improve/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/singleton/EumSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    <list default="true" id="42162b68-c331-4fe3-8c83-c8bcefa09252" name="Default Changelist" comment="ａｄｄ">
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/FoldedPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/HuaWei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/UpRightPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/XiaoMi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/CloseCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/CloseCard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Ocp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Ocp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/OpenCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/OpenCard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Overhead.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/Overhead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/QueryCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/tqk/principle/ocp/improve/QueryCard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tqk/singleton/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tqk/singleton/HungrySingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tqk/singleton/LazySingleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tqk/singleton/LazySingleton2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +59,7 @@
       <recent name="com.tqk.factroy.factorymethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (4)">
+  <component name="RunManager" selected="Application.Client (5)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tqk.prototype.improve.Client" />
       <module name="DesignPattern" />
@@ -161,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tqk.prototype.Client" />
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tqk.bridge.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tqk.prototype.*" />
+          <option name="PATTERN" value="com.tqk.bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -206,8 +157,16 @@
       <option name="presentableId" value="Default" />
       <updated>1624632688142</updated>
       <workItem from="1624632690898" duration="4278000" />
-      <workItem from="1624757769221" duration="10064000" />
+      <workItem from="1624757769221" duration="14306000" />
     </task>
+    <task id="LOCAL-00001" summary="ａｄｄ">
+      <created>1624811729924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624811729924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +183,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ａｄｄ" />
+    <option name="LAST_COMMIT_MESSAGE" value="ａｄｄ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
