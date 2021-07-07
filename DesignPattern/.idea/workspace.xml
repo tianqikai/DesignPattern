@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42162b68-c331-4fe3-8c83-c8bcefa09252" name="Default Changelist" comment="ａｄｄ">
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/FoldedPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/HuaWei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/UpRightPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/bridge/XiaoMi.java" afterDir="false" />
+    <list default="true" id="42162b68-c331-4fe3-8c83-c8bcefa09252" name="Default Changelist" comment="add">
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/commond/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/commond/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/commond/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/commond/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/commond/LightReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/commond/NoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/commond/RemoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/commond/TVOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/commond/TVOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/commond/TVReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/composite/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/composite/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/composite/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/composite/HashMapComp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/composite/OrganizationComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/composite/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/decorator/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/decorator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/decorator/CoffeeBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/decorator/DeCaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/decorator/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/decorator/LongBlack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/facade/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/facade/DVDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/facade/HomeTheaterFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/facade/Popcorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/facade/Projector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/facade/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/facade/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/facade/TheaterLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/facade/newfile.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/template/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/template/PeanutSoyaMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/template/PureSoyaMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/template/RedBeanSoyaMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/template/SoyaMilk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +80,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/tqk/factroy/factorymethod" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/tqk/facade" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -49,23 +89,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaweb\设计模式\DesignPattern\src\com\tqk\facade" />
       <recent name="D:\javaweb\设计模式\DesignPattern\src\com\tqk\factroy\factorymethod" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tqk.commond" />
       <recent name="com.tqk.builder.improve" />
       <recent name="com.tqk.prototype.deppclone" />
       <recent name="com.tqk.prototype.improve" />
       <recent name="com.tqk.absfactory" />
-      <recent name="com.tqk.factroy.factorymethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (5)">
+  <component name="RunManager" selected="Application.Client (3)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tqk.prototype.improve.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.tqk.facade.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tqk.prototype.improve.*" />
+          <option name="PATTERN" value="com.tqk.facade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,11 +115,11 @@
       </method>
     </configuration>
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tqk.prototype.deppclone.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.tqk.template.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tqk.prototype.deppclone.*" />
+          <option name="PATTERN" value="com.tqk.template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,11 +128,11 @@
       </method>
     </configuration>
     <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tqk.builder.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.tqk.commond.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tqk.builder.*" />
+          <option name="PATTERN" value="com.tqk.commond.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tqk.builder.improve.Client" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tqk.composite.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tqk.builder.improve.*" />
+          <option name="PATTERN" value="com.tqk.composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tqk.bridge.Client" />
+    <configuration name="CoffeeBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tqk.decorator.CoffeeBar" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tqk.bridge.*" />
+          <option name="PATTERN" value="com.tqk.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (5)" />
-        <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.CoffeeBar" />
         <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +198,7 @@
       <option name="presentableId" value="Default" />
       <updated>1624632688142</updated>
       <workItem from="1624632690898" duration="4278000" />
-      <workItem from="1624757769221" duration="14306000" />
+      <workItem from="1624757769221" duration="31408000" />
     </task>
     <task id="LOCAL-00001" summary="ａｄｄ">
       <created>1624811729924</created>
@@ -166,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624811729924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add">
+      <created>1624896384938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624896384938</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +234,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ａｄｄ" />
-    <option name="LAST_COMMIT_MESSAGE" value="ａｄｄ" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
