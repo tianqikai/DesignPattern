@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/src/com/tqk/facade/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/facade/Client.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/tqk/facade/DVDPlayer.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/tqk/facade/HomeTheaterFacade.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/tqk/facade/Popcorn.java" charset="UTF-8" />
@@ -10,7 +10,20 @@
     <file url="file://$PROJECT_DIR$/src/com/tqk/facade/Stereo.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/tqk/facade/TheaterLight.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/tqk/facade/newfile.cld" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/observer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/observer/improve" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/observer/improve/Client.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/tqk/prototype/deppclone/DeepCloneableTarget.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/responsibilitychain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/responsibilitychain/Approver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/responsibilitychain/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/responsibilitychain/CollegeApprover.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/responsibilitychain/DepartmentApprover.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/responsibilitychain/PurchaseRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/responsibilitychain/SchoolMasterApprover.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/responsibilitychain/ViceSchoolMasterApprover.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/responsibilitychain/newfile.cld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tqk/responsibilitychain/oa.cld" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

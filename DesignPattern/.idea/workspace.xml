@@ -2,15 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42162b68-c331-4fe3-8c83-c8bcefa09252" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/visitor/action/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/visitor/action/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/visitor/action/Fail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/visitor/action/Success.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/visitor/action/Wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/visitor/objectstructure/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/visitor/objectstructure/ObjectStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/visitor/objectstructure/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tqk/visitor/objectstructure/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/observer/CurrentConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/observer/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/observer/improve/BaiduSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/observer/improve/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/observer/improve/CurrentConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/observer/improve/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/observer/improve/SinaSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/observer/improve/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/observer/improve/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/responsibilitychain/Approver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/responsibilitychain/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/responsibilitychain/CollegeApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/responsibilitychain/DepartmentApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/responsibilitychain/PurchaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/responsibilitychain/SchoolMasterApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/responsibilitychain/ViceSchoolMasterApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/responsibilitychain/newfile.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tqk/responsibilitychain/oa.cld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,15 +56,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/tqk/facade" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/tqk/responsibilitychain/ViceSchoolMasterApprover.java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\vue\DesignPattern\DesignPattern\src\com\tqk\responsibilitychain" />
+      <recent name="E:\vue\DesignPattern\DesignPattern\src\com\tqk\observer\improve" />
       <recent name="D:\javaweb\设计模式\DesignPattern\src\com\tqk\facade" />
       <recent name="D:\javaweb\设计模式\DesignPattern\src\com\tqk\factroy\factorymethod" />
     </key>
@@ -65,26 +78,13 @@
       <recent name="com.tqk.absfactory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (4)">
+  <component name="RunManager" selected="Application.Client (5)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tqk.facade.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.tqk.observer.improve.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tqk.facade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tqk.template.Client" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tqk.template.*" />
+          <option name="PATTERN" value="com.tqk.observer.improve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoffeeBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tqk.decorator.CoffeeBar" />
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tqk.responsibilitychain.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tqk.decorator.*" />
+          <option name="PATTERN" value="com.tqk.responsibilitychain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,26 +131,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tqk.observer.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tqk.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.CoffeeBar" />
-        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +175,7 @@
       <updated>1624632688142</updated>
       <workItem from="1624632690898" duration="4278000" />
       <workItem from="1624757769221" duration="34462000" />
+      <workItem from="1636077690355" duration="5486000" />
     </task>
     <task id="LOCAL-00001" summary="ａｄｄ">
       <created>1624811729924</created>
